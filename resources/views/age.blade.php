@@ -1,1 +1,4 @@
-Student's age is: <?php echo $age; ?>
+Student's age is: <?php 
+	//View for age
+	echo $age;
+?>

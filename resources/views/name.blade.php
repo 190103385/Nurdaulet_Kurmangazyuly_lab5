@@ -1,1 +1,4 @@
-Student's name is: <?php echo $name; ?>
+Student's name is: <?php 
+	//View for name
+	echo $name; 
+?>

@@ -1,1 +1,4 @@
-Student was born in: <?php echo $date; ?>
+Student was born in: <?php 
+	//View for date
+	echo $date; 
+?>
