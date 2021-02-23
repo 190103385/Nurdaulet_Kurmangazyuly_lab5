@@ -1,0 +1,1 @@
+Student was born in: <?php echo $date; ?>
